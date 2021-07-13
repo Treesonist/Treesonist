@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @LeonelDumbo
+- 👋 Hi, I’m @Treesonit
 - 👀 I’m interested in software development.
 - 🌱 I’m currently learning C++.
+- 💻 I'm good at RBLXLua (LuaU).
 - 📫 The best way to reach me is via discord: NotLeonel#6411
 
 <!---
