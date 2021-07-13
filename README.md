@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Treesonit
+- 👋 Hi, I’m @Treesonist
 - 👀 I’m interested in software development.
 - 🌱 I’m currently learning C++.
 - 💻 I'm good at RBLXLua (LuaU).
