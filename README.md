@@ -2,7 +2,7 @@
 - 👀 I’m interested in software development.
 - 🌱 I’m currently learning C++.
 - 💻 I'm good at RBLXLua (LuaU).
-- 📫 The best way to reach me is via discord: Leonel#6411
+- 📫 The best way to reach me is via discord: Leonel#9852
 
 <!---
 LeonelDumbo/LeonelDumbo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
