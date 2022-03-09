@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @Treesonist
-- 👀 I’m interested in software development.
-- 🌱 I’m currently learning C++.
-- 💻 I'm good at Lua.
+I do the stupid
 
 <!---
 Treesonist/Treesonist is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
