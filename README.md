@@ -1,6 +1,6 @@
-I do the stupid
+I do things
 
-![Awesome Noisy GIF](https://cdn.discordapp.com/attachments/665753904620765211/1105319496169832569/bitcrushedgif.gif)
+<img src="https://cdn.discordapp.com/attachments/665753904620765211/1108569172797046864/shambler.gif" width="400" height="400"/>
 
 <!---
 Treesonist/Treesonist is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
